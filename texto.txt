@@ -1,1 +1,7 @@
 Cambio en Git
+
+Crear una carpeta en el proyecto que ya tenemos con el nombre Mario Bros
+Dentro de la carpeta Mario Bors crear un text vacio que se llame Toad.txt
+cd..
+suben los cambios al repo.
+pasar repo por el chat 
